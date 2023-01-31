@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ifham Husain Siddiqui
 - 👀 I’m interested in competitive coding and software development.
-- 🌱 I’m currently learning to develop advance softwares.
+- 🌱 I’m currently learning Mongo DB.
 - 💞️ I’m looking to collaborate with other students having same interests.
 - 📫 You can reach me through my LinkedIn - https://www.linkedin.com/in/ifham-husain-siddiqui-aa08bb224/
 
