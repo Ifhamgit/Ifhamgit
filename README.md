@@ -2,13 +2,13 @@
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/BoringGraveAmericanbobtail-max-1mb.gif">
 
-- 🔭 I’m currently working on **CloudBox**
+- 🔭 I’m currently working on **DataBase Script Validator**
 
-- 🌱 I’m currently learning **MongoDB and handleBars**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 🤝 I’m looking for help with **Mongo**
 
-- 💬 Ask me about **react and other tech stacks**
+- 💬 Ask me about **Angular and other tech stacks**
 
 - 📫 How to reach me **https://www.linkedin.com/in/ifham-husain-siddiqui-aa08bb224/**
 
