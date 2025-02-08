@@ -2,11 +2,11 @@
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/BoringGraveAmericanbobtail-max-1mb.gif">
 
-- 🔭 I’m currently working on **DataBase Script Validator**
+- 🔭 I’m currently working on **WorkForce Management**
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 🤝 I’m looking for help with **Mongo**
+- 🤝 I’m looking for help with **Github Actions**
 
 - 💬 Ask me about **Angular and other tech stacks**
 
