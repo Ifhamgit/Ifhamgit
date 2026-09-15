@@ -2,13 +2,13 @@
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/BoringGraveAmericanbobtail-max-1mb.gif">
 
-- 🔭 I’m currently working on **WorkForce Management**
+- 🔭 I’m currently working on **Scaling Agentic systems**
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **LLM's, Agentic AI**
 
-- 🤝 I’m looking for help with **Github Actions**
+- 🤝 I’m looking for help with **MLops**
 
-- 💬 Ask me about **Angular and other tech stacks**
+- 💬 Ask me about **Python and AI Agents**
 
 - 📫 How to reach me **https://www.linkedin.com/in/ifham-husain-siddiqui-aa08bb224/**
 
